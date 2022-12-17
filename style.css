@@ -1,0 +1,21 @@
+*, *::before, *::after {
+    box-sizing: border-box; }
+  
+body {
+    margin: 0;
+    text-align: center;
+    line-height: 1.2;
+    background: lightgoldenrodyellow;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+p {
+    padding: 96px;
+    text-align: center;
+}
+span {
+    font-style: italic;
+}
